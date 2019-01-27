@@ -125,12 +125,6 @@ void sort(char lines[100][80], char dates[100][20], int count){
 
 
 int main(){
-// FILE *foo = NULL; 
- 
-// foo = fopen("textFile.txt" ,"a"); STUFF WE PROBABLY DONT EVEN NEED 
-
-//  mkdir("testdir", 0750);
-
 int i;
 
 char ch;
